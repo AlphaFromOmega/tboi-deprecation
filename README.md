@@ -1,6 +1,7 @@
-# deprecation
+# Deprecation
 
-deprecation is a mod for [_The Binding of Isaac: Repentance_](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/), written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.
+Deprecation is a mod for [_The Binding of Isaac: Repentance_](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/), written in [TypeScript](https://www.typescriptlang.org/) using the [IsaacScript](https://isaacscript.github.io/) framework.
+The aim of Deprecation is update old or removed workshop mods from Afterbirth+ to Repentance
 
 ## How To Play
 
